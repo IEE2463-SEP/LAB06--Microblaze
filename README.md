@@ -16,6 +16,6 @@ En este laboratorio se presenta la configuración e inicialización del softcore
 * Ver y ejecutar el video del [laboratorio 06](https://youtu.be/5LTBA2gNJQc).
 * Contenidos de la [Ayudantia 05](https://youtu.be/6MO-9q7fUwE)
 * [Lectura06](https://github.com/IEE2463-SEP/Lecturas) IEE2463.
-* 
+* Capitulos 1, 2 y 4.2 del documento [The Zynq Book](https://github.com/IEE2463-SEP/Documentacion/blob/main/The_Zynq_Book.pdf)
   
 4.- [Actividad Práctica]() desarrollada en el del Laboratorio 
