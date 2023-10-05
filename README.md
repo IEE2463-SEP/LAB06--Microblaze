@@ -18,4 +18,4 @@ En este laboratorio se presenta la configuración e inicialización del softcore
 * [Lectura06](https://github.com/IEE2463-SEP/Lecturas) IEE2463.
 * Capitulos 1, 2 y 4.2 del documento [The Zynq Book](https://github.com/IEE2463-SEP/Documentacion/blob/main/The_Zynq_Book.pdf)
   
-4.- [Actividad Práctica]() desarrollada en el del Laboratorio 
+4.- [Actividad Práctica](https://github.com/IEE2463-SEP/LAB06--Microblaze/blob/main/LAB06_Microblaze.pptx) desarrollada en el del Laboratorio 
